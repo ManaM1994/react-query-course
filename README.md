@@ -1,1 +1,1 @@
-# react-query-course
+# react-query
